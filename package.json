@@ -1,7 +1,7 @@
 {
-  "name": "hubot-XXX",
-  "version": "0.0.0",
-  "description": "A Hubot script that DESCRIPTION",
+  "name": "hubot-bbn-weekly-stats",
+  "version": "1.0.0",
+  "description": "A Hubot script that returns blog.bouzuya.net weekly stats",
   "main": "index.js",
   "scripts": {
     "build": "gulp",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bouzuya/hubot-XXX.git"
+    "url": "git://github.com/bouzuya/hubot-bbn-weekly-stats.git"
   },
   "keywords": [
     "hubot",
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bouzuya/hubot-XXX/issues"
+    "url": "https://github.com/bouzuya/hubot-bbn-weekly-stats/issues"
   },
-  "homepage": "https://github.com/bouzuya/hubot-XXX",
+  "homepage": "https://github.com/bouzuya/hubot-bbn-weekly-stats",
   "devDependencies": {
     "coffee-script": "^1.7.1",
     "del": "^0.1.2",
